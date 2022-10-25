@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var BASE_URL = 'http://127.0.0.1:3000/api/user';","map":{"version":3,"names":["BASE_URL"],"sources":["C:/Users/kiend/Documents/File hoc tap/LT Mobile/category-main/APP/config.js"],"sourcesContent":["export const BASE_URL = 'http://127.0.0.1:3000/api/user'"],"mappings":"AAAA,OAAO,IAAMA,QAAQ,GAAG,gCAAgC"},"metadata":{},"sourceType":"module"}
